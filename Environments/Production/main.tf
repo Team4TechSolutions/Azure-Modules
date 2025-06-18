@@ -74,3 +74,22 @@ module "windows_vm_2" {
   root_volume_type      = "Standard_LRS"
   tags                  = var.tags
 }
+
+
+
+<a
+  href={downloadUrl}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="mt-2 inline-block text-green-700 underline"
+>
+  :inbox_tray: Download Excel
+</a>
+
+
+
+
+
+12:46
+{status === ':hourglass_flowing_sand: Uploading and processing...' && (
+  <div className="mt-4 animate-spin rounded-full h-6 w-6 border-b-2 border-blue-600 mx-auto"></div>
